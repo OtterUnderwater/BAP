@@ -1,0 +1,97 @@
+﻿  FileName.c
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(17,11): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(225,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(233,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(234,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(258,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(262,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(308,26): warning C4101: k: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(491,23): warning C4047: <: "size_t" отличается по уровням косвенного обращения от "int *"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(494,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(494,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(500,23): warning C4047: <: "size_t" отличается по уровням косвенного обращения от "int *"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(502,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(502,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(511,20): warning C4047: <: "int" отличается по уровням косвенного обращения от "int *"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(513,25): warning C4047: <: "int" отличается по уровням косвенного обращения от "int *"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(534,27): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(553,27): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(570,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(574,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(574,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(575,23): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(575,23): warning C4024: ArraySorting: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(592,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(593,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(593,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(599,23): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(599,23): warning C4024: ArraySorting: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(617,10): warning C4098: zadmas4: функция типа "void", возвращающая значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(589,12): warning C4101: p: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(589,15): warning C4101: j: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(625,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(626,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(626,22): warning C4024: CreateArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(621,9): warning C4101: i: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(662,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(663,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(663,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(664,23): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(664,23): warning C4024: ArraySorting: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(659,15): warning C4101: temp: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(688,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(689,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(689,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(704,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(704,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(713,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(714,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(714,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(710,12): warning C4101: i: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(710,9): warning C4101: x: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(734,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(738,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(738,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(767,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(771,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(771,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(791,26): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(792,21): warning C4020: malloc: слишком много фактических параметров
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(797,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(797,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(803,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(803,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(812,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(812,10): message : рекомендуется использовать "%zd" в строке форматирования
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(841,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(935,13): warning C4101: min: неиспользованная локальная переменная
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1342,8): warning C4013: Sravnenie: нет определения; предполагается "extern" с возвратом типа "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1456,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1460,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1461,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1727,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1727,26): warning C4024: CreateRandArray: различные типы для формального и фактического параметров 2
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2354,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1004): warning C4716: RandArrey2: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1336): warning C4716: Sorting: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1347): warning C4716: Poisk: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1795): warning C4716: controlSM: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1862): warning C4716: TopMan: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1841): warning C4716: SortingMan: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1945): warning C4716: TopGirl: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1929): warning C4716: SortingGirl: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(1976): warning C4716: SortingDisGirl: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2053): warning C4716: controlFS: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2080): warning C4716: secret: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2101): warning C4716: task: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2126): warning C4716: cycle: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2157): warning C4716: conditions: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2194): warning C4716: massiv: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2223): warning C4716: string: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2252): warning C4716: massiv2: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2273): warning C4716: switchi: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2283): warning C4716: struc: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2349): warning C4716: control: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2330): warning C4716: FileStruc: должна возвращать значение
+D:\breeze\learning\Mamsheva\Project\Project4\Project4\FileName.c(2306): warning C4716: file: должна возвращать значение
+  Project4.vcxproj -> D:\breeze\learning\Mamsheva\Project\Project4\x64\Debug\Project4.exe
